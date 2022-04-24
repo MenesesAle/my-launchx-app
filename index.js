@@ -1,3 +1,3 @@
 const MissionCommander = require('./app/missionCommander')
-const ale = new MissionCommander("Ale")
-console.log(ale.name)
+const carlo = new MissionCommander("Carlo")
+console.log(carlo.name)
